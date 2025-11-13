@@ -4,9 +4,9 @@ I code alonged this youtube video endorsed by freecodecamp and gained some essen
 ## What I learnt:
 1. JavaScript variables: fundamental building blocks for storing and structuring data.
 
-2.Symbols and Operators: essential in performing calculations, modifying data and executing large cooparations.
+2. Symbols and Operators: essential in performing calculations, modifying data and executing large cooparations.
 
-3.Control flow: directing programs using loops and conditional statements, making your code dynamic and interactive.
+3. Control flow: directing programs using loops and conditional statements, making your code dynamic and interactive.
 
 4. objects: for creating objects with OOP. This section covers jScript objects and how they develop your application.
 
@@ -17,7 +17,7 @@ I code alonged this youtube video endorsed by freecodecamp and gained some essen
 ## Todo:
 1.  Check out objects in objects
 2. Curry functions
-3.Infinite curry functions
+3. Infinite curry functions
 4. classes and OOP in general
 
 ## Reach Out
